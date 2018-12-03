@@ -6,8 +6,8 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": ""
-  }
+    "url": "https://github.com/TeriEich/w1d6/tree/master/express-and-ejs"
+  },
   "dependencies": {
     "ejs": "^2.4.1",
     "express": "^4.13.4"
